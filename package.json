@@ -1,6 +1,6 @@
 {
   "name": "rehype-minify-whitespace-revised",
-  "version": "5.0.1",
+  "version": "5.0.3",
   "description": "rehype plugin to collapse whitespace",
   "license": "MIT",
   "type": "module",
@@ -24,13 +24,14 @@
     "space"
   ],
   "sideEffects": false,
-  "repository": "https://github.com/jkyin/rehype-minify-whitespace-x",
+  "repository": "https://github.com/jkyin/rehype-minify-whitespace-revised",
   "author": "jkyin",
   "types": "index.d.ts",
   "files": [
     "block.js",
     "content.js",
     "index.js",
+    "index.d.ts",
     "skippable.js"
   ],
   "dependencies": {
